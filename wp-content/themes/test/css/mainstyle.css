@@ -1,0 +1,33 @@
+body {
+	background-color: #f0f0f1;
+}
+
+.footer {
+	background-color: #333;
+	color: #eee ;
+	padding: 20px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+
+.main-post {
+	background-color: white;
+	padding: 15px;
+	border: #cfcfcf solid 1px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+.main-post h3 {
+	margin: 0 0 10px;
+	font-weight: bold;
+	color: #5a6ca1;
+	text-transform: capitalize;
+}
+
+
+.main-post i {
+	color: gray;
+}
